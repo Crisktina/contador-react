@@ -1,4 +1,4 @@
-# :desktop_computer:React Exercise II
+# :desktop_computer: React Exercise II
 
 ## Table of Contents
 
